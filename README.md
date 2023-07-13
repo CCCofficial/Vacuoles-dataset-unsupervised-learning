@@ -14,3 +14,13 @@ The dataset is downloadable as a zip file, and contains:
     + train_clustershcf: train images divided into folders corresponding to clusters assigned using hand-crafted features, as described in the paper;
  
 Each image is encoded as RGB, with 80x80 pixels resolution. 
+
+
+<p align="center">
+<img width="299" alt="image_repo"  src="https://github.com/CCCofficial/Vacuoles-dataset-unsupervised-learning/assets/51142446/64c68e99-bb84-4d2d-893e-bb97de1bffab"><br>
+    <i>Representative vacuole images of the $4$ classes present in the dataset A) single, B) multiple, C) condensed vacuole, and D) negative or dead cell</i>
+
+</p>
+
+
+    
